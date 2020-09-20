@@ -1,9 +1,9 @@
-#QUESTION
+# QUESTION
 
 https://www.codechef.com/problems/INTEST
 
 
-#APPROACH
+# APPROACH
 
 Initialy, Consider count to be zero. 
 
